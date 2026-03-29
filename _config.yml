@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Umm e Hani"
+author: "Umm e Hani"
+description: "Tech blog"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"

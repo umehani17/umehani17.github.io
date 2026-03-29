@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-Hello! My name is **[Umm-e-Hani]**, 
+Hello! My name is **Umm-e-Hani**, 
 and I am currently a **2nd semester Computer Engineering student**. 
 I am passionate about learning programming, web development, and computer systems.
 I enjoy solving problems, experimenting with new technologies, and building small projects to improve my practical skills.
